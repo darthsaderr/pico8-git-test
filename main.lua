@@ -9,5 +9,6 @@ end
 
 
 function _draw()
-
+    cls()
+    spr(1,64,64)
 end
